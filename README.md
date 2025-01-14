@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI ! I am <br>**Manee Das Shrestha**<br>🌱 I’m currently learning NEXT JS<br>⚡ Fun fact: I like FRIENDSS.
+HI ! I am <br>**Manee Das Shrestha**<br>🌱 I’m currently learning NODE & NEXT JS<br>⚡ Fun fact: I like FRIENDSS.
 
 
 ## 🌐 Socials:
